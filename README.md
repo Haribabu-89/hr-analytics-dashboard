@@ -6,7 +6,7 @@
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](dashboard_screenshot.png)
+![HR Analytics Dashboard](dashboard_preview1.png)
 
 ---
 
