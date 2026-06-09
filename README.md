@@ -87,7 +87,7 @@ hr-analytics-dashboard/
 │
 ├── HR_Analytics_Dashboard.pbix   ← Power BI dashboard file
 ├── HR_Analytics_Data.csv         ← Raw employee dataset
-├── dashboard_screenshot.png      ← Dashboard preview image
+├── dashboard_preview.png      ← Dashboard preview image
 └── README.md                     ← This file
 ```
 ---
